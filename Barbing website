@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Barbing with Naz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Mobile Barbing with Naz Khaliq</h1>
+  </header>
+
+  <nav class="navbar">
+    <a href="index.html">Home</a><br>
+    <a href="services.html">Services</a><br>
+    <a href="gallery.html">Gallery</a><br>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Welcome to Mobile Barbing by Naz Khaliq</h2>
+      <img src="Assets/Images/1000s.jpg"Naz working with a client">
+      <p>Welcome to Naz Khaliq's Mobile Male Barbing service. I specialize in haircuts, wet shaving, and other premium male grooming treatments. I travel to your home to ensure that you receive the best grooming experience in the comfort of your own space.</p>
+      <p>Serving clients within a 20-mile radius of Basingstoke. Book an appointment today and get your first shave or haircut at a special promotional price!</p><br><br>
+<hr>
+      <h3>Promotions</h3>
+      <p>New customers can enjoy 20% off their first booking. Use the promo code <strong>NAZKHALIQ20</strong> when booking.</p>
+      <br><br>
+<hr>
+      <div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Mobile Barbing by Naz Khaliq. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
